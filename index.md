@@ -13,3 +13,8 @@ Ejemplo de imagen:
   <h1>{() => "Holaaaaaa"}</h1>
 </div>
 ```
+La siguiente es una lista de tareas por hacer:
+
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
