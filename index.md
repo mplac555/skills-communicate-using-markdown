@@ -5,3 +5,11 @@
 Ejemplo de imagen:
 
 ![imagen de David Martinez](https://somoskudasai.com/wp-content/uploads/2023/03/portada_cyberpunk-edgerunners-12.jpg)
+
+¿Es correcto el código a continuación?
+
+```
+<div>
+  <h1>{() => "Holaaaaaa"}</h1>
+</div>
+```
